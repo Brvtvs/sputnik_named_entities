@@ -1,0 +1,10 @@
+pycld2
+pyicu
+python-bidi
+arabic_reshaper
+regex
+matplotlib
+seaborn
+beautifulsoup4
+pandas
+feedparser
